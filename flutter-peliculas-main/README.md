@@ -3,7 +3,7 @@
 ## Description
 A new Flutter project.
 
-https://img.shields.io/badge/<VS>-<Visual-Code>-<blue>
+https://img.shields.io/static/v1?label=<VS>&message=<VisualCode>&color=<blue>
 
 ## Getting Started
 
