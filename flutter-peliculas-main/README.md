@@ -1,19 +1,30 @@
-## MobileApp-Catalogo-PeliculasV2.
+# MobileApp-Catalogo-PeliculasV2.
 
 ## Description
-A new Flutter project.
+This is a Flutter Mobile app.
 
-https://img.shields.io/static/v1?label=<VS>&message=<VisualCode>&color=<blue>
+In this application you can search for information of any Movie, in addition to seeing the information of the actors, all this from the database of a web page using an API.
 
-## Getting Started
+This program is able to fetch the:
 
-Recomendaciones al instalar esta aplicacion: 
+1. Search by name any movie in the database.
+2. Show movie information in addition to its rating.
+3. Show the actors and the director of the movie.
+4. Show a short description of the movie.
 
-1-abrir el archivo pubspec.yaml y guardar (ctrl + s) esperar a que genere las dependencias e instale las API.
 
-2-tener la version mas actualizada de Dart o minimo la version 1.0 flutter.
 
-3-se requiere la version mas nueva del SDK o minimo la version 2.12.0 <3.0.0.
+## Installation and how to run
+//
 
-Aplicacion desarrollada en Flutter por: Diego Alvarez Espinoza 
+//
 
+//
+
+## Packages used
+//
+
+## Installation and how to run
+//
+
+**Enjoy Coding ❤ by Diego Alvarez**
