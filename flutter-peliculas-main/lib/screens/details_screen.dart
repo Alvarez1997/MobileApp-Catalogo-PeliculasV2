@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:peliculas/models/models.dart';
 import 'package:peliculas/widgets/widgets.dart';
 
+//comment some of the files with information of what they do and some of their methods if possible .If not, just delete comment. 
 class DetailsScreen extends StatelessWidget {
   
   @override
