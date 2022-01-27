@@ -3,9 +3,9 @@
 ## Description
 This is a Flutter Mobile app.
 
-In this application you can search for information of any Movie, in addition to seeing the information of the actors, all this from the database of a web page using an API.
+This is an application where you can search for any movie and see the data on your phone while the app is in charge of displaying the results from a database.
 
-This program is able to fetch the:
+This Application is able to:
 
 1. Search by name any movie in the database.
 2. Show movie information in addition to its rating.
