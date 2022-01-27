@@ -12,19 +12,15 @@ This Application is able to:
 3. Show the actors and the director of the movie.
 4. Show a short description of the movie.
 
-
-
 ## Installation and how to run
-//
-
 //
 
 //
 
 ## Packages used
-//
-
-## Installation and how to run
-//
+-  cupertino_icons: ^1.0.2
+-  flutter_card_swipper: ^0.4.0
+-  http: ^0.13.3
+-  provider: ^5.0.0
 
 **Enjoy Coding ❤ by Diego Alvarez**
