@@ -13,14 +13,19 @@ This Application is able to:
 4. Show a short description of the movie.
 
 ## Installation and how to run
-//
-
-//
+- Fork this Repository
+- Clone your forked repository
+- Add your scripts
+- Commit & Push
+- Create a pull request
+- Star this repository
+- Wait for Pull Request to merge
+### Note: in addition you can open the pubspec.yaml file and save (ctrl + s) for the code editor to download and update the packages.
 
 ## Packages used
--  cupertino_icons: ^1.0.2
--  flutter_card_swipper: ^0.4.0
--  http: ^0.13.3
--  provider: ^5.0.0
+- cupertino_icons: ^1.0.2
+- flutter_card_swipper: ^0.4.0
+- http: ^0.13.3
+- provider: ^5.0.0
 
 **Enjoy Coding ❤ by Diego Alvarez**
